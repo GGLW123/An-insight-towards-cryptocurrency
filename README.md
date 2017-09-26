@@ -1,11 +1,11 @@
 # An-insight-towards-cryptocurrency
 This repositories will explain what is crypto-currency and the most famous one is bitcoin. What is it
 
-## Cryptocurrency:Bitcoin
+## Cryptocurrency:Bitcoin(BTC)
 ## Glossary:
    # Address(public key)
      The address for bitcoin is as follows: 1P2zCZ2kGLWSfGfirResjXVojygJWvAQ47, the address for bitcoin is always start with one.
-     One can have many addresses as possible.
+     One can have many addresses as possible. That's my address above, so if anyone feel that this repository is helpful. You might consider to donate some BTC or ETH to the address above and below.
    # Bitcoin
      The is the currency name, network and also software itself.
    # Block
@@ -51,7 +51,7 @@ the link: [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.am
 
 ![]({{site.baseurl}}//Capture1.PNG)
 
-## Ethereum Address
+## Ethereum Address (ETH)
 For ethereum, the address is as follows 0xCf3EA8b2b16E3BF2edd1EAB08D0104D0d9862970 and it was noted that the address starts with a 0 value.
 
 ## CryptoMining
