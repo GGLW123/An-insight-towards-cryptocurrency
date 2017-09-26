@@ -7,7 +7,7 @@ This repositories will explain what is crypto-currency and the most famous one i
      The address for bitcoin is as follows: 1P2zCZ2kGLWSfGfirResjXVojygJWvAQ47, the address for bitcoin is always start with one.
      One can have many addresses as possible. That's my address above, so if anyone feel that this repository is helpful. You might consider to donate some BTC or ETH to the address above and below.
    # Bitcoin
-     The is the currency name, network and also software itself.
+     The is the currency name, network and also software itself. It is the first ever decentralized digital currency. It was invented under the name Satoshi Nakamoto.
    # Block
      Consists of transactions and a fingerprint of the block before this. Once the block is hashed, a proof of work is done and the          unverified transactions will now be validated. Valid blocks are added to the main blockchain by network general agreement.
    # Blockchain 
