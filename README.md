@@ -50,7 +50,7 @@ Mastering Bitcoin: Unlocking Digital Cryptocurrencies(Amazon)
 
 the link: [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_2?ie=UTF8&qid=1506086143&sr=8-2&keywords=mastering+bitcoin "Mastering Bitcoin: Unlocking Digital Cryptocurrencies")
 
-![]({{site.baseurl}}//Capture1.PNG)
+![]({{site.baseurl}}//Capture1![]({{site.baseurl}}/https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiXqrnircLWAhWMrI8KHbjpAR8QjhwIBQ&url=https%3A%2F%2Fbitcoin.org%2F&psig=AFQjCNE5zMQq_b4A427B1ZMcM2KB023f4g&ust=1506498314644409).PNG)
 
 ## Ethereum Address (ETH)
 For ethereum, the address is as follows 0xCf3EA8b2b16E3BF2edd1EAB08D0104D0d9862970 and it was noted that the address starts with a 0 value.
